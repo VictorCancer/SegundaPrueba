@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Sobrescribimos
 Nueva linea
+=======
+esto es un texto local 3
+esto es un buuuuugfix
+>>>>>>> newfeature
